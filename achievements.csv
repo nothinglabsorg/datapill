@@ -1,0 +1,20 @@
+Subnet Name,Subnet Number,Description,Link
+OMEGA Labs,24,Has become the most downloaded AGI multimodal dataset on Huggingface in the 10-100m rows category ,https://x.com/omegalabsai/status/1846253325307818334/photo/1
+Graphite,43,Managed to converge to a nearly-optimal solution for the travelling salesman problem up to 300x faster than academic models and commercial solutions.,https://x.com/xponentcrisis/status/1844002464850444344
+OpenKaito,5,Surpassed OpenAI's embedding model in just two weeks,https://x.com/xponentcrisis/status/1843863986602946747
+Omron,2,Sets new standard for Proof generation: 30%+ faster than EZKL's Lilith benchmark,https://x.com/TensorplexLabs/status/1842241277758460261
+Dataverse,13,Has achieved the largest open-source social media dataset at 18 billion rows of data,https://x.com/MacrocosmosAI/status/1842252141966000406
+BitMind,34,"Created the first open-source deepfake detection benchmark, with their model outperforming SOTA models.",https://x.com/kenjonmiyachi/status/1841546921183240301
+Apex,1,Achieved 22%+ lead over LLaMA 3.1 70B on MMLU Benchmark,https://x.com/macrocrux/status/1837431336224596133
+ReadyAI,33,Surpassed the MTurk benchmark by 71% and GPT 4o by 37% for data annotation tasks,https://x.com/DavFields/status/1834404221401419906
+It's AI,32,"Took #1 spot on the RAID Leaderboard, the go-to benchmark for AI detection models",https://x.com/HungNgu76442123/status/1834369193954947118
+Chunking,40,Surpassed industry leaders in fiction RAG benchmark,https://x.com/vectorchatai/status/1832460054957638088
+SocialTensor,23,Consistently generating over 21 million images daily,https://x.com/SocialTensor/status/1828829535128736073
+OMEGA Any-to-Any,21,"Produced first open-source multimodal llama3 that understands image, audio, and video",https://x.com/OMEGAlabsai/status/1830712652320121071
+Vision,19,Average of 45 tokens-per-second on Mixtral LLM,https://x.com/namoray_dev/status/1825810385817030923
+OMEGA Labs,24,"Collected 69M rows of multi-modal data using, receiving over 123k downloads on HuggingFace",https://x.com/OMEGAlabsai/status/1825641370536562725
+Protein Folding,25,"Simulated over 70,000 unique protein foldings in 2 months",https://x.com/MacrocosmosAI/status/1818649585864102354
+Dataverse,13,Scraped over 702 million rows of anonymized open-source Reddit data,https://x.com/MacrocosmosAI/status/1815754783002853583
+Targon,4,Hit 2286 tokens-per-second on Llama-3 8B at $0.04 per million token,https://x.com/DavFields/status/1824489392725168190
+Dippy,11,Produced model that performs better than GPT 3.5 Turbo and Llama3 8B on the EQBench benchmark,https://x.com/angad_ai/status/1824125266647503162
+Pre-Training,9,Produced a model that surpassed Falcon-7B,https://x.com/TensorplexLabs/status/1793281513368498191
