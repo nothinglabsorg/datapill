@@ -1,4 +1,4 @@
-﻿# Taoshi: Trading Alpha on Bittensor
+# Taoshi: Trading Alpha on Bittensor
 
 **Authors:** [Sami Kassab](https://x.com/Old_Samster) and [Brody Adreon](https://x.com/brodyadreon)
 *Nov. 5, 2024
