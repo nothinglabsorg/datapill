@@ -1,8 +1,8 @@
-# Taoshi: Trading Alpha on Bittensor
+﻿# Taoshi: Trading Alpha on Bittensor
 
 **Authors:** [Sami Kassab](https://x.com/Old_Samster) and [Brody Adreon](https://x.com/brodyadreon)
-*Nov. 5, 2024
-Download [PDF](https://drive.google.com/file/d/1C9P_ebErLTOKMg_nHuajRBdUMwpiQTA2/view?usp=sharing)
+*Nov. 5, 2024*
+*Download [PDF](https://drive.google.com/file/d/1C9P_ebErLTOKMg_nHuajRBdUMwpiQTA2/view?usp=sharing)*
 
 ### Key Insights
 
@@ -33,7 +33,7 @@ While consumer AI applications like ChatGPT steal the spotlight, Wall Street is 
 
 Although quant funds have traditionally underperformed over longer investment horizons, recent data shows this trend is reversing. According to data from Aurum, quant strategies are outperforming competing hedge fund strategies and posted an impressive [8.7%](https://www.aurum.com/hedge-fund-data/hedge-fund-industry-deep-dive/hedge-fund-industry-performance-deep-dive-h1-2024/) average YTD return since June 2024.
 
-![1](https://i.imgur.com/Reuq8WN.jpeg)
+![1](https://imgur.com/a/FvCGSob)
 
 Meanwhile, markets are becoming increasingly automated, with algorithmic trading now widely [adopted](https://www.businessinsider.com/wall-street-goldman-jpmorgan-bridgewater-using-ai-2023-12) by major financial institutions, and AI strategies being [rapidly](https://www.reuters.com/markets/markets-ai-efficiency-may-bring-volatility-mcgeever-2024-10-17/#:~:text=The%20financial%20industry,could%20be%20coming.) integrated into these algorithms. Consequently, both trends are expected to intensify and intersect with the advent of AI agents, effectively verticalizing trading strategy creation and capital allocation workflows.
 
@@ -80,7 +80,7 @@ PTN’s scoring system goes beyond simple profit metrics, incorporating factors 
 
 The scoring system directly influences the reward distribution, which is structured to account for each miner’s relative performance. High-ranking miners receive a greater share of rewards through a skewed [distribution](https://docs.taoshi.io/tips/p11/). Specifically, the top 10% of miners capture 56% of total rewards, while those lower on the leaderboard still earn meaningful incentives to encourage continuous strategy improvement.
 
-![2](https://i.imgur.com/mnfMKVf.jpeg)
+![2](https://imgur.com/a/dhmUOar)
 
 To simulate real-world trading conditions, the system incorporates a layer of [costs](https://docs.taoshi.io/ptn/miner/overview/#:~:text=25%25-,Scoring%20Penalties,-There%20are%20four) and [penalties](https://docs.taoshi.io/ptn/miner/overview/#:~:text=proposal%209.-,Fees%20and%20Transaction%20Costs,-We%20want%20to), alongside elimination criteria, such as a drawdown limit, to remove underperforming miners from the competition.
 
@@ -92,11 +92,11 @@ The subnet’s scoring system is designed to reward sustained, consistent perfor
 
 Performance metrics reveal the effectiveness of PTN's incentive mechanism. Recent data shows the typical 90-day return across miners has averaged 4.7% over the past month, calculated as a weighted average based on miner scores.
 
-![3](https://i.imgur.com/zx0ZxF9.jpeg)
+![3](https://imgur.com/a/x67Fryz)
 
 The same analysis reveals an average drawdown of 3%. With the scoring system heavily prioritizing drawdown management, many miners have steered clear of highly volatile assets like Bitcoin. One miner noted that the scoring system could be improved to incentivize trading in more volatile markets.
 
-![4](https://i.imgur.com/cUIQFpz.jpeg)
+![4](https://imgur.com/a/4QVy3iR)
 
 To put these figures into perspective, the HFR Fund-Weighted Composite Index, a broad measure of hedge fund performance, had an annualized return of just [4.0%](https://blogs.cfainstitute.org/investor/2024/06/26/hedge-funds-a-poor-choice-for-most-long-term-investors/) for the 15 years ending June 30, 2023. PTN's 90-day performance of 4.7% not only outpaces this long-term industry benchmark but does so by a substantial margin. Furthermore, PTN's 3% average drawdown is significantly lower than typical drawdowns seen in many traditional and crypto markets, underscoring the effectiveness of its risk management strategies.
 
@@ -124,7 +124,7 @@ Currently, subnet contributors receive rewards in TAO, and validators must stake
 
 Access to subnet services, or 'bandwidth,' forms the foundation of subnet token value. In PTN, as with every Bittensor subnet, validators serve as the gateway to miner outputs. A validator's bandwidth - their level of access to miners - is proportional to their token holdings.
 
-![5](https://i.imgur.com/wQEkL3k.jpeg)
+![5](https://imgur.com/a/BaPpW3K)
 
 The forthcoming PTN token will determine validators' access to the network's trade signals through a tiered bandwidth system. The validator with the highest token stake will receive access to all miner signals, while subsequent validators will have access to progressively fewer top signals based on their relative stake. While specific implementation details are still being defined, this mechanism creates natural competition among validators to increase their bandwidth by acquiring more tokens.
 
