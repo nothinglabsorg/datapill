@@ -164,4 +164,4 @@ As the subnet continues to mature and attract more participants, PTN appears wel
 
 _________________________________________________________________
 
-*This report was commissioned by Taoshi. All content was produced independently by the author(s) and does not necessarily reflect the opinions of the organization that requested the report. The commissioning organization does not influence editorial decision or content. This report is meant for informational purposes only. It is not meant to serve as investment advice. You should conduct your own research, and consult an independent financial, tax, or legal advisor before making any investment decisions.*
+*This report was commissioned by Taoshi. All content was produced independently by the author(s) and does not necessarily reflect the opinions of the organization that requested the report. The commissioning organization does not influence editorial decision or content. This report is meant for informational purposes only and is not meant to serve as investment advice. You should conduct your own research, and consult an independent financial, tax, or legal advisor before making any investment decisions.*
