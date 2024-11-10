@@ -17,7 +17,7 @@
 
 Taoshi's Proprietary Trading Network, better known as Bittensor subnet 8, is a decentralized platform where trading and machine learning professionals compete to provide institutional-grade trading signals across forex, stock indices, and crypto assets. The subnet operates as a continuous, transparent proprietary trading competition, rewarding contributors for producing competitive trading signals, while making these insights accessible to all.
 
-And the rewards are substantial: a daily incentive pool of $52,000 (based on a TAO price of $525 at the time of writing) awaits those brave enough to enter the arena.
+And the rewards are substantial: a daily incentive pool of $52,000 (based on a TAO price of $525 and 3.3% emissions at the time of writing) awaits those brave enough to enter the arena.
 
 By creating a decentralized marketplace for actionable trading insights, the Proprietary Trading Network (PTN) aims to democratize access to sophisticated and continuously evolving trading strategies through open-source contributions and competition.
 
