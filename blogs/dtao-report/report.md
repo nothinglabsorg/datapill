@@ -1,5 +1,5 @@
 ﻿# **Dynamic TAO: Bringing Bittensor out of the Dark Age**
-**Author: Sami Kassab, Alex Kirk**
+**Author: Sami Kassab, [Alex Kiriakides](https://x.com/AlexKiriakides)**
 
 
 
