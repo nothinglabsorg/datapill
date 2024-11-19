@@ -18,7 +18,7 @@ The Root Network consists of 64 of the largest validators tasked with voting on 
 
 ## **Dynamic TAO Era**
 
-But fear note, because Dynamic TAO (dTAO) —the solution that'll take Bittensor out of the dark ages— is on the horizon. Looking back, we'll view the Root Network era as a temporary solution that helped bootstrap the network while a more efficient capital allocation system was developed.
+But fear not, because Dynamic TAO (dTAO) —the solution that'll take Bittensor out of the dark ages— is on the horizon. Looking back, we'll view the Root Network era as a temporary solution that helped bootstrap the network while a more efficient capital allocation system was developed.
 
 Instead of validators making consequence-free votes, dTAO transitions to a market-based system where each subnet has its own token. The relative price of these tokens determines emission allocation to subnets. As markets digest new information and revalue subnets, emissions dynamically adjust.
 
