@@ -28,14 +28,13 @@ Tao360 meticulously analyzes the same network from different angles. The process
 
 These diverse data streams are then processed in tandem with the OTF Framework[^1] through several leading AI models (Gemini 1.5 Pro, GPT-4, Claude 3.5 Sonnet and Llama 3). In the short report, each model offers a valuation, suggested emissions, justification, direct quotes to substantiate articulated claims, and next steps. This process is repeated several times to eliminate single-report bias and a consensus report is created for each model which compares and averages the results of the short reports.
 
-<img src="https://i.imgur.com/HtxwoxL.jpg" width="600" alt="Tao360 flow">
-
+![1](https://i.imgur.com/HtxwoxL.jpg)
 
 ## A Network-Wide Analysis
 
 Between November 26-30, 2024, we conducted a comprehensive network analysis generating over 2,350 individual reports.This included 11+ short reports per subnet from each AI model, which were then consolidated into consensus reports. Below are the suggested emissions based on this extensive analysis.
 
-<img src="https://i.imgur.com/lgqztq8.jpg" width="600" alt="Tao360 flow">
+![1](https://i.imgur.com/lgqztq8.jpg)
 
 ### Key Trends
 
@@ -45,7 +44,7 @@ Between November 26-30, 2024, we conducted a comprehensive network analysis gene
 
 **AI Model Assessment Trends**: When analyzing subnets in isolation, AI models generally leaned toward "undervalued" or "appropriate" ratings. As a result, any overvaluation flags carried significant weight in final emissions calculations
 
-<img src="https://i.imgur.com/IjUZyNo.jpg" width="600" alt="Tao360 flow">
+![1](https://i.imgur.com/IjUZyNo.jpg)
 
 ### Current Limitations
 
