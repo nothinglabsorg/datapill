@@ -4,7 +4,7 @@
 
 *Dec. 11, 2024*
 
-*Download Blog [PDF](https://drive.google.com/file/d/1RpvmsDZqjt31_CgPsVSWGmIuhvGX55x3/view?usp=drive_link)*
+*Download Blog [PDF](https://drive.google.com/file/d/1ldkypVg_7Yu9RHKWR8Zui7KMuANrBbmo/view?usp=drive_link)*
 
 *Download Full Report [PDF](https://drive.google.com/file/d/1bFU_3rIBFaHF817b29KjPhwN3z_I1NtB/view?usp=drive_link)*
 
@@ -28,14 +28,14 @@ Tao360 meticulously analyzes the same network from different angles. The process
 
 These diverse data streams are then processed in tandem with the OTF Framework[^1] through several leading AI models (Gemini 1.5 Pro, GPT-4, Claude 3.5 Sonnet and Llama 3). In the short report, each model offers a valuation, suggested emissions, justification, direct quotes to substantiate articulated claims, and next steps. This process is repeated several times to eliminate single-report bias and a consensus report is created for each model which compares and averages the results of the short reports.
 
-![1](https://imgur.com/a/o8basCo)
+<img src="https://i.imgur.com/HtxwoxL.jpg" width="600" alt="Tao360 flow">
 
 
 ## A Network-Wide Analysis
 
 Between November 26-30, 2024, we conducted a comprehensive network analysis generating over 2,350 individual reports.This included 11+ short reports per subnet from each AI model, which were then consolidated into consensus reports. Below are the suggested emissions based on this extensive analysis.
 
-![1](https://imgur.com/a/aoe3yj5)
+<img src="https://i.imgur.com/lgqztq8.jpg" width="600" alt="Tao360 flow">
 
 ### Key Trends
 
@@ -45,7 +45,7 @@ Between November 26-30, 2024, we conducted a comprehensive network analysis gene
 
 **AI Model Assessment Trends**: When analyzing subnets in isolation, AI models generally leaned toward "undervalued" or "appropriate" ratings. As a result, any overvaluation flags carried significant weight in final emissions calculations
 
-![1](https://imgur.com/a/rPjvAfn)
+<img src="https://i.imgur.com/IjUZyNo.jpg" width="600" alt="Tao360 flow">
 
 ### Current Limitations
 
