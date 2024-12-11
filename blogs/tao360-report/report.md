@@ -28,7 +28,7 @@ Tao360 meticulously analyzes the same network from different angles. The process
 
 These diverse data streams are then processed in tandem with the OTF Framework[^1] through several leading AI models (Gemini 1.5 Pro, GPT-4, Claude 3.5 Sonnet and Llama 3). In the short report, each model offers a valuation, suggested emissions, justification, direct quotes to substantiate articulated claims, and next steps. This process is repeated several times to eliminate single-report bias and a consensus report is created for each model which compares and averages the results of the short reports.
 
-<div style="max-width: 800px; margin: 0 auto;">
+<div style="max-width: 500px; margin: 0 auto;">
 
 ![AI Model Evaluation Flow Diagram](https://i.imgur.com/HtxwoxL.jpg)
 
