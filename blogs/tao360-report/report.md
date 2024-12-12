@@ -6,7 +6,7 @@
 
 *Download Blog [PDF](https://drive.google.com/file/d/1ldkypVg_7Yu9RHKWR8Zui7KMuANrBbmo/view?usp=drive_link)*
 
-*Download Full Report [PDF]([https://drive.google.com/file/d/1bFU_3rIBFaHF817b29KjPhwN3z_I1NtB/view?usp=drive_link](https://drive.google.com/file/d/1Hjc5mP0sjDMQDNFQlWFytW13y3kXlJkm/view?usp=drive_link))*
+*Download Full Report [PDF](https://drive.google.com/file/d/1Hjc5mP0sjDMQDNFQlWFytW13y3kXlJkm/view?usp=drive_link)*
 
 In Bittensor's growing ecosystem of AI subnets, determining fair emissions allocations and measuring subnet performance remains a critical challenge. Tao360 offers a promising solution: an AI-powered subnet data aggregator that analyzes network metrics to provide valuation insights. This innovative proof-of-concept system represents the first step toward data-driven emissions allocation. The following dives into the current analysis approach and recent network-wide results, and opens the discussion for future development.
 
